@@ -10,3 +10,6 @@
 @import url(./typography.css);
 @import url(./page-layout.css);
 @import url(./home.css);
+
+/* responsive queries */
+@import url(./responsive.css);
