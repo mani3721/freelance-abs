@@ -1,0 +1,13 @@
+:root {
+
+    /* solid color */
+    --c-white: #fff;
+    --c-black : #000;
+    --c-blue: #462df4;
+    --c-misty : #f5f9fd;
+    --c-sky-blue: #d3fcff;
+
+    /* shadow -color */
+    --c-shadow: #dfdddd;
+    --c-light-shadow : rgba(255, 255, 255, 0.12)
+}

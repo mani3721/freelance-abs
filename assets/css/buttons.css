@@ -1,0 +1,28 @@
+.btn {
+    outline: none;
+    border: none;
+    user-select: none;
+    display: inline-block;
+    text-align: center;
+    color: var(--c-black);
+    font-size: 15px;
+    padding: 12px 20px;
+    border-radius: var(--br-radius-sm);
+    cursor: pointer;
+}
+
+.btn-lg {
+    color: var(--c-white);
+    background-color: var(--c-blue);
+}
+
+.btn-md {
+    background-color: var(--c-misty);
+}
+
+
+.btn-sm {
+
+}
+
+

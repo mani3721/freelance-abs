@@ -1,0 +1,13 @@
+.d-flx { display: flex; }
+.fD-C { flex-direction: column; }
+.jC-C { justify-content: center; }
+.jC-SP { justify-content: space-between; }
+
+/* align item */
+.al-C {align-items: center; }
+.al-FS {align-items: flex-start; }
+.al-FE {align-items: flex-end; }
+
+/* flex grow */
+.fG-1 { flex-grow: 1; }
+.fS-0 { flex-shrink: 0; }
